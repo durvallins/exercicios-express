@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon",
-    "production": "pm2 start inde.js --name app-backend"
+    "production": "pm2 start index.js --name appx-backend"
   },
   "keywords": [],
   "author": "",
